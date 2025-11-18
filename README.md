@@ -1,6 +1,6 @@
 # Financial Transaction API
 
-A comprehensive RESTful API for managing financial transactions built with Python, FastAPI, PostgreSQL, Docker, and AWS integration.
+A comprehensive RESTful API for managing financial transactions built with Python, FastAPI, PostgreSQL and  Docker
 
 ## Features
 
